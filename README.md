@@ -113,7 +113,4 @@ Seasonal dips appear consistently in Q3 across years.
 - **Excel (.xlsx)** – Raw dataset  
 - **Data Modeling** (Star-schema style)
 
----
-
-## 📁 Repository Structure
 
